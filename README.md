@@ -1,4 +1,4 @@
-## Goal: javascript, nodes, GitHub, docker  
+# Goal: javascript, nodes, GitHub, shell scripting
 
 
 ### Javascript
@@ -27,3 +27,8 @@
 - https://codeburst.io/node-js-by-example-part-2-dad2af5b7012
 - https://codeburst.io/node-js-by-example-part-3-31a29f5d7e9c
 - https://codeburst.io/node-js-by-example-part-4-e84901514cfd
+
+# Shell Scripting
+
+### Tutorial
+- https://www.shellscript.sh/index.html
