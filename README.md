@@ -32,3 +32,14 @@
 
 ### Tutorial
 - https://www.shellscript.sh/index.html
+
+
+### 07-16-2018
+1. Install git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+2. clone this github repo
+3. practice: 
+  ```
+    git add <new_file_name>
+    git commit -m '<some_message>'
+    git push -u origin master
+   ```
