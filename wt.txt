@@ -1,2 +1,6 @@
 jenny says: "hi!"
+<<<<<<< HEAD
 I love cheesy fries
+=======
+Kayla says: "Hi Everyone!!! :D"
+>>>>>>> a970672d0d6bd3cf713f47e36e32e8026aeb7af5
