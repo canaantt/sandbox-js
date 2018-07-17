@@ -43,3 +43,7 @@
     git commit -m '<some_message>'
     git push -u origin master
    ```
+### 07-17-2018
+1. [GitHub] create a new branch
+2. [Learn to write function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+3. [[option] How to write Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
