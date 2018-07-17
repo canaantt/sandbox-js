@@ -30,3 +30,8 @@ var get_case_annotation = function(case_barcode){
 }
 
 get_case_annotation('TCGA-02-0001');
+
+var kayla_loves_dogs = function(case_barcode){
+    get_case(case_barcode);
+    get_case_annotation(case_barcode);
+}
