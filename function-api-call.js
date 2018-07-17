@@ -13,7 +13,7 @@ var get_case = function(case_barcode) {
     const options = {
         url : tcga_url + 'tcga/cases/' + case_barcode
     }
-
+    console.log(options);
     request(options, handleResponse);
 }
 
