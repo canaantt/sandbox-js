@@ -25,6 +25,7 @@ var get_case_annotation = function(case_barcode){
         url : 'https://api-dot-isb-cgc.appspot.com/_ah/api/isb_cgc_tcga_api/v3/cases/'+ case_barcode + '/annotations'
                
     }
+    console.log(options);
     request(options, handleResponse);
 }
 
