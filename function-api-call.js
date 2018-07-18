@@ -32,14 +32,15 @@ var get_case_annotation = function(case_barcode){
 get_case_annotation('TCGA-02-0001');
 
 
-var jenny = function(case_barcode){
+var diana = function(case_barcode){
     get_case(case_barcode);
-    get_case_annotation(case_barcode);
+    get_case_annotation(case_barcode)
 }
 
 
 
 
+<<<<<<< HEAD
 function addition(a, b) {
     return a + b;
 }
@@ -50,3 +51,15 @@ function concat(a, b) {
 
 var addition = function(a, b){
     return a + b;
+=======
+
+
+var concat = function(a, b) {
+    return a +';' +b;
+}
+
+var addition = function(a, b) {
+    return a + b;
+}
+
+>>>>>>> 791f300c0a3275e3df76d2c52c800be7db031f0c
