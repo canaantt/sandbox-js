@@ -13,7 +13,7 @@ var get_case = function(case_barcode) {
     const options = {
         url : tcga_url + 'tcga/cases/' + case_barcode
     }
-
+    console.log(options);
     request(options, handleResponse);
 }
 
@@ -31,7 +31,8 @@ var get_case_annotation = function(case_barcode){
 
 get_case_annotation('TCGA-02-0001');
 
-var kayla_loves_dogs = function(case_barcode){
+
+var jenny = function(case_barcode){
     get_case(case_barcode);
     get_case_annotation(case_barcode);
 }
@@ -39,6 +40,7 @@ var kayla_loves_dogs = function(case_barcode){
 
 
 
+<<<<<<< HEAD
 var concat = function(a, b) {
     return a +';' +b;
 }
@@ -46,3 +48,15 @@ var concat = function(a, b) {
 var addition = function(a, b) {
     return a + b;
 }
+=======
+function addition(a, b) {
+    return a + b;
+}
+
+function concat(a, b) {
+    return a + ';' + b;
+}
+
+var addition = function(a, b){
+    return a + b;
+>>>>>>> 3fb906ceea6a6bdcee16a0e01bd1aaef8fecaf9b
