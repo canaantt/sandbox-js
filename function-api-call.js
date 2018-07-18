@@ -35,3 +35,14 @@ var kayla_loves_dogs = function(case_barcode){
     get_case(case_barcode);
     get_case_annotation(case_barcode);
 }
+
+
+
+
+var concat = function(a, b) {
+    return a +';' +b;
+}
+
+var addition = function(a, b) {
+    return a + b;
+}
