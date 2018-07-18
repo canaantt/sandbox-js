@@ -47,3 +47,8 @@
 1. [GitHub] create a new branch
 2. [Learn to write function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 3. [[option] How to write Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### 07-18-2018
+1. Continue with writing functions
+2. [GitHub] create PR (Pull request) 
+3. try writing your own module
