@@ -25,7 +25,28 @@ var get_case_annotation = function(case_barcode){
         url : 'https://api-dot-isb-cgc.appspot.com/_ah/api/isb_cgc_tcga_api/v3/cases/'+ case_barcode + '/annotations'
                
     }
+    console.log(options);
     request(options, handleResponse);
 }
 
 get_case_annotation('TCGA-02-0001');
+
+
+var diana = function(case_barcode){
+    get_case(case_barcode);
+    get_case_annotation(case_barcode)
+}
+
+
+
+
+
+
+var concat = function(a, b) {
+    return a +';' +b;
+}
+
+var addition = function(a, b) {
+    return a + b;
+}
+
