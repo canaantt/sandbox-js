@@ -40,15 +40,6 @@ var jenny = function(case_barcode){
 
 
 
-<<<<<<< HEAD
-var concat = function(a, b) {
-    return a +';' +b;
-}
-
-var addition = function(a, b) {
-    return a + b;
-}
-=======
 function addition(a, b) {
     return a + b;
 }
@@ -59,4 +50,3 @@ function concat(a, b) {
 
 var addition = function(a, b){
     return a + b;
->>>>>>> 3fb906ceea6a6bdcee16a0e01bd1aaef8fecaf9b
