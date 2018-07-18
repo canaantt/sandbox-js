@@ -29,3 +29,23 @@ var get_case_annotation = function(case_barcode){
 }
 
 get_case_annotation('TCGA-02-0001');
+
+var jenny = function(case_barcode){
+    get_case(case_barcode);
+    get_case_annotation(case_barcode);
+}
+
+
+
+
+function addition(a, b) {
+    return a + b;
+}
+
+function concat(a, b) {
+    return a + ';' + b;
+}
+
+var addition = function(a, b){
+    return a + b;
+}
