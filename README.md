@@ -52,3 +52,4 @@
 1. Continue with writing functions
 2. [GitHub] create PR (Pull request) 
 3. try writing your own module
+4. [[option] Vi/Vim editor](http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf)
