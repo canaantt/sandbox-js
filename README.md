@@ -53,3 +53,20 @@
 2. [GitHub] create PR (Pull request) 
 3. try writing your own module
 4. [[option] Vi/Vim editor](http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf)
+
+### 07-19-2018
+
+A simple web with express server
+- back: server/app.js
+  
+  ```
+    node server/app.js
+  ```
+
+- front: index.html
+  ```
+    sudo npm install -g http-server
+    http-server
+  ```
+
+
