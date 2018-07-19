@@ -49,4 +49,7 @@ var concat = function(a, b) {
 var addition = function(a, b) {
     return a + b;
 }
+var Name = funciton(myName) {
+    name: "Diana";
 
+}
